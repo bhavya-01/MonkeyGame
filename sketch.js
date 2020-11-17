@@ -52,7 +52,7 @@ function draw() {
   
   
   
-  if(ground.x<40){
+  if(ground.x<100){
     ground.x = 400;
   }
   
